@@ -61,7 +61,7 @@ st.markdown("""
 st.write("-------")
 
 st.subheader('b) Correlation Matrix using Heatmap')
-sn.set(rc={'figure.figsize':(11,7)})
+plt.figure(figsize=(10, 5))
 sn.heatmap(white_wine_df.corr(), annot=True, fmt='.2f', cmap='coolwarm')
 st.pyplot(plt)
 st.markdown("""
