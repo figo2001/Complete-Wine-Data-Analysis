@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of Red and White Wine
+# Exploratory Data Analysis of Red and White Wine 🍷🍸
 
 This repository contains a detailed exploratory data analysis (EDA) of red and white wine quality using Python libraries: Pandas, Matplotlib, and Seaborn. The aim is to uncover insights from the wine datasets and understand the factors that contribute to wine quality.
 
