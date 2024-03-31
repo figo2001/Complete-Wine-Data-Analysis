@@ -47,3 +47,9 @@ Contributions to this project are welcome! Please fork the repository and submit
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+
+## Demo
+
+[streamlit-App-2024-04-01-04-04-76.webm](https://github.com/figo2001/Complete-Wine-Data-Analysis/assets/78696850/288af2c1-6a65-49d3-a7f0-eb21af9b1a8d)
+
+
